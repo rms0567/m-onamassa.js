@@ -120,8 +120,8 @@ button:active{
 }
 
 button[disabled=disabled], button:disabled {
-    background-color: gray;
-	border-color: darkgray;
+    background-color: rgb(224, 151, 202);
+	border-color: rgb(253, 2, 178);
 
 }
 
@@ -130,5 +130,5 @@ button[disabled=disabled], button:disabled {
 }
 
 .campo-invalido{
-	border: 1px solid red;
+	border: 1px solid rgb(255, 0, 212);
 }
